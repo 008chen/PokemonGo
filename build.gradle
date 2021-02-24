@@ -1,3 +1,4 @@
+//检查依赖库最新版本
 apply from: './checkVersions.gradle'
 
 buildscript {

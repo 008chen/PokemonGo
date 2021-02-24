@@ -14,6 +14,7 @@ import kotlinx.coroutines.FlowPreview
 import org.jetbrains.anko.startActivity
 
 /**
+ * 神奇宝贝的详细数据，先查询数据库，如果没有找到，读取网路数据然后保存到数据库
  * <pre>
  *     author: dhl
  *     date  : 2020/7/11
